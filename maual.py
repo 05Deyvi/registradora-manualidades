@@ -3,7 +3,7 @@ import os
 import json
 
 # Configuración de la página
-st.set_page_config(page_title="Caja Registradora de Manualidades", page_icon="🎨", layout="centered")
+st.set_page_config(page_title="Caja Registradora de Manualidades MISHELL 💖🍷💋", page_icon="🎨", layout="centered")
 
 st.title("🎨 Control de Costos para Manualidades ✂️")
 st.write("Selecciona los materiales que utilizaste para calcular el costo total de tu proyecto.")
